@@ -11,7 +11,7 @@ public class Journal {
 		date = "" + scanner.next();		// Virtualization
 		
 		try {
-			File entry = new File("/home/whitewizard/workspace/Journal/entries/" + date + ".txt");
+			File entry = new File("/home/whitewizard/Projects/Journal/entries/" + date + ".txt");
 			if (!entry.exists()) {
 				entry.createNewFile();
 			}
