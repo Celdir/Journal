@@ -1,4 +1,0 @@
-
-This is the first entry of the program.
-I still need to add entry viewing functionality.
-END

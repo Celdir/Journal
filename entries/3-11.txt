@@ -1,0 +1,5 @@
+
+Well, I did quite a bit of work on this program today. I added the view, ls, and help commands. Woo! Progress!
+Anyway, that's all.
+Whitewizard
+END
