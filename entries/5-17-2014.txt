@@ -1,6 +1,0 @@
-Well, today I made the command line part of the program quite a bit better by allowing actual expressions after the command. xD
-In other news, today we sent the money and forms off to Harvard for the summer school programs. Woo!
-Also, I'm about to go see ET with Allen, so I better go take a quick shower and get ready.
-Signing off,
-whitewizard
-END
