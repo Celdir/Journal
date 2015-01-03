@@ -1,0 +1,4 @@
+This is a sample entry.
+You type whatever you like in here.
+You end the entry with this next line.
+END
